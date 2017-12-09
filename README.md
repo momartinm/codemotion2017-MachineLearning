@@ -7,26 +7,25 @@ En esta charla presentaremos que es ese ente llamado "Machine Learning", que té
 
 Como utilizar los ejemplos:
 
-Ejemplo utilizado en la presentacion
-usage: code_example_1.py [-h] -f F [-m M]
+Ejemplo utilizado en la presentacion<br />
+usage: code_example_1.py [-h] -f F [-m M]<br />
 
-Trying to predict the prize of a property in UK
+Trying to predict the prize of a property in UK<br />
 
-optional arguments:
-  -h, --help  show this help message and exit
-  -f F        path to the examples (train/test) file
-  -m M        mode of examples
+optional arguments:<br />
+  -h, --help  show this help message and exit<br />
+  -f F        path to the examples (train/test) file<br />
+  -m M        mode of examples<br />
 
 
-usage: code_example_2.py [-h] -f F [-m M] [-p P] [-o O]
+usage: code_example_2.py [-h] -f F [-m M] [-p P] [-o O]<br />
 
-Trying to predict the prize of a property in UK
+Trying to predict the prize of a property in UK<br />
 
-optional arguments:
-  -h, --help  show this help message and exit
-  -f F        path to the examples (train/test) file
-  -m M        mode of examples are built (0: all data; 1: property age; 2:
-              property type)
-  -p P        Period: number of year for partial fit
-  -o O        output file
+optional arguments:<br />
+  -h, --help  show this help message and exit<br />
+  -f F        path to the examples (train/test) file<br />
+  -m M        mode of examples are built (0: all data; 1: property age; 2:property type)<br />
+  -p P        Period: number of year for partial fit<br />
+  -o O        output file<br />
 
